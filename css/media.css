@@ -1,0 +1,60 @@
+@media (max-width: 1120px) {
+  h1 {
+    font-size: 100px;
+  }
+
+  body {
+    font-size: 50px;
+  }
+
+  .serious-man span::after {
+    margin-top: 36px;
+    margin-left: -274px;
+    width: 276px;
+  }
+
+  .joke h2 {
+    font-size: 100px;
+  }
+}
+
+@media (max-width: 800px) {
+  h1 {
+    font-size: 70px;
+  }
+
+  body {
+    font-size: 35px;
+  }
+
+  .serious-man span::after {
+    margin-top: 24px;
+    margin-left: -190px;
+    width: 192px;
+  }
+
+  .joke h2 {
+    font-size: 70px;
+  }
+}
+
+@media (max-width: 570px) {
+  h1 {
+    font-size: 50px;
+  }
+
+  body {
+    font-size: 29px;
+  }
+
+  .serious-man span::after {
+    margin-top: 20px;
+    margin-left: -157px;
+    width: 159px;
+    height: 2px;
+  }
+
+  .joke h2 {
+    font-size: 50px;
+  }
+}
