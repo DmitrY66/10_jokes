@@ -1,27 +1,27 @@
 @font-face {
   font-family: "Montserrat-Bold";
   src: local("Montserrat Hairline"), local("Montserrat-Hairline"),
-    url(/fonts/Montserrat/Montserrat-Bold.woff) format("woff");
+    url(../fonts/Montserrat/Montserrat-Bold.woff) format("woff");
 }
 @font-face {
   font-family: "Montserrat-BoldItalic";
   src: local("Montserrat Hairline"), local("Montserrat-Hairline"),
-    url(/fonts/Montserrat/Montserrat-BoldItalic.woff) format("woff");
+    url(../fonts/Montserrat/Montserrat-BoldItalic.woff) format("woff");
 }
 @font-face {
   font-family: "Montserrat-SemiBold";
   src: local("Montserrat Hairline"), local("Montserrat-Hairline"),
-    url(/fonts/Montserrat/Montserrat-SemiBold.woff) format("woff");
+    url(../fonts/Montserrat/Montserrat-SemiBold.woff) format("woff");
 }
 @font-face {
   font-family: "Montserrat-Regular";
   src: local("Montserrat Hairline"), local("Montserrat-Hairline"),
-    url(/fonts/Montserrat/Montserrat-Regular.woff) format("woff");
+    url(../fonts/Montserrat/Montserrat-Regular.woff) format("woff");
 }
 @font-face {
   font-family: "Montserrat-Light";
   src: local("Montserrat Hairline"), local("Montserrat-Hairline"),
-    url(/fonts/Montserrat/Montserrat-Light.woff) format("woff");
+    url(../fonts/Montserrat/Montserrat-Light.woff) format("woff");
 }
 
 h1 {
